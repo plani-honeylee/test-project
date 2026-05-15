@@ -1,0 +1,52 @@
+/* 노토산스 */
+@font-face {
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 200;
+    src: url(/public/fonts/Noto-Sans-KR/NotoSans-DemiLight.eot);
+    src: local("Noto Sans KR DemiLight"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-DemiLight.eot?#iefix) format("embedded-opentype"),
+    url(/public/fonts/Noto-Sans-KR/NotoSans-DemiLight.woff2) format("woff2"),
+    url(/public/fonts/Noto-Sans-KR/NotoSans-DemiLight.woff) format("woff");
+  }
+  @font-face {
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 300;
+    src: url(/public/fonts/Noto-Sans-KR/NotoSans-Light.eot);
+    src: local("Noto Sans KR Light"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Light.eot?#iefix) format("embedded-opentype"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Light.woff2) format("woff2"),
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Light.woff) format("woff");
+  }
+  @font-face {
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 400;
+    src: url(/public/fonts/Noto-Sans-KR/NotoSans-Regular.eot);
+    src: local("Noto Sans KR Regular"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Regular.eot?#iefix) format("embedded-opentype"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Regular.woff2) format("woff2"),
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Regular.woff) format("woff");
+  }
+  @font-face {
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 500;
+    src: url(/public/fonts/Noto-Sans-KR/NotoSans-Medium.eot);
+    src: local("Noto Sans KR Medium"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Medium.eot?#iefix) format("embedded-opentype"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Medium.woff2) format("woff2"),
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Medium.woff) format("woff");
+  }
+  @font-face {
+    font-family: "Noto Sans KR";
+    font-style: normal;
+    font-weight: 600;
+    src: url(/public/fonts/Noto-Sans-KR/NotoSans-Bold.eot);
+    src: local("Noto Sans KR Bold"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Bold.eot?#iefix) format("embedded-opentype"), 
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Bold.woff2) format("woff2"),
+    url(/public/fonts/Noto-Sans-KR/NotoSans-Bold.woff) format("woff");
+  }
+  
