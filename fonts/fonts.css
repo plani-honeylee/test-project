@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+/* 노토산스KR */
+@import url('/public/fonts/Noto-Sans-KR/Noto-Sans-KR.css');
+
+/* Pretendard */
+@import url('/public/fonts/Pretendard/Pretendard.css');
+
+/* 스포카한산스 */
+@import url('/public/fonts/SpoqaHanSansNeo/SpoqaHanSansNeo.css');
+
+/* 스포카한산스 */
+@import url('/public/fonts/SUIT/SUIT.css');
+
+/* 스포카한산스 */
+@import url('/public/fonts/SBAggro/SBAggro.css');
+
+/* Montserrat */
+@import url('/public/fonts/Montserrat/Montserrat.css');
+
+/* RedHatDisplay */
+@import url('/public/fonts/RedHatDisplay/RedHatDisplay.css');
+
+/* icon */
+@import url('/public/fonts/remixicon/remixicon.css');
+@import url('/public/fonts/iconoir/iconoir.css');
+
